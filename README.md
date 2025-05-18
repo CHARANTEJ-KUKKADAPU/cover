@@ -147,7 +147,7 @@ Publish the website in the LocalHost.
                 <hr style="color:blanchedalmond">
             </div>
             <div class="author">
-               <p><b>KUKKADAPU CHARAN TEJ V</b></p>
+               <p><b>KUKKADAPU CHARAN TEJ</b></p>
             </div>
             <div class="pub">
                 SEC
